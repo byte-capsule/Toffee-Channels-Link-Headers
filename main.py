@@ -2,10 +2,6 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 import base64,requests,urllib,json,os
 from urllib.parse import urlparse,urljoin
-from datetime import datetime, timedelta
-import time
-import pytz
-
 
 def data_decrypt(key, ciphertext):
     cipher = AES.new(key, AES.MODE_ECB)
@@ -17,6 +13,9 @@ def data_decrypt(key, ciphertext):
 
 
 def update_time():
+    from datetime import datetime, timedelta
+    import time
+    import pytz
 
     IST = pytz.timezone('Asia/Dhaka')   
     today_date = datetime.now(IST).strftime("%d-%m-%Y") #Current Date
@@ -80,8 +79,19 @@ def load_channel():
 	        all_data.append(data)
 	return all_data    
  
+
 secret_key=os.environ["TOFFEE_KEY"].encode()
-data=load_channel()
+
+date_time_info=update_time()
+date_time=date_time_info[1]+" on "+date_time_info[0]
+data_channels=load_channel()
+data={
+"name":"Toffee App All Channel Link with Headers",
+"owner":"Byte Capsule Telegram: https://t.me/J_9X_H_9X_N",
+"channels_amount":len(datax),
+"updated_on":date_time,
+"channels":data_channels
+}
 with open("toffee_channel_data.json","w") as w:
     json.dump(data,w,indent=2)
     
