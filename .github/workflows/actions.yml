@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # At 00:00 on Monday
+    - cron: '*/30 * * * *' # Runs every 30 minutes
 
 jobs:
   build:
@@ -25,6 +25,7 @@ jobs:
       - name: execute py script # run main.py
         env:
           TOFFEE_KEY: ${{ secrets.TOFFEE_KEY }}
+          TOFFEE_API: ${{ secrets.TOFFEE_API }}
         run: python main.py
           
       - name: commit files
