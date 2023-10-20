@@ -36,14 +36,14 @@ def update_time():
     return curr_time,today_date
     
 def load_channel():
-	api="https://mapi.toffeelive.com/ugc-app-home-page-content-toffee-v2/1/0/1/200/820"
+	
 	headers={
 	"Host": "mapi.toffeelive.com",
     "user-agent": "Toffee/5.1.1 (Linux;Android 7.1.2) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "client-api-header":"angM1aXCHQLmmSW6cDlpXMD6tLdwnhMoUeaBBFKmd98bX6Vrae5xCMbm4gg0+u33rnxeGQDZNr2GD1tW0cWwKEpWimNlGqXVQGhpiIBz1JFxN+OxXcQqaMPrjwUhCyI5mO1DGyNv18+Z2EpmHtVnLzV9SrGsQWu4oRKjxE8QIMsRs6LrvL6hWGPlOGQke/qb5QxQZNetPzI39jHhX7Zi2XrCMIT4a+gk2Wu1c3wIybwkqknPcTp4Bj1cEF3Q+q1dV05SBhzpEDfoR2BLyQ6dV3LvmY6MNKxbUjby7hMsg35lFl2Df2mZsr7C27309w/qWi8lLXDjB7B1MozIGKn8rw3bXY5YlrPKBKztyiisAjQQi7kc5ISXyGSwRmhciwkciuitsSL0LlqHY7/Qkkh71EtaK3XEgVpLdH8zRCsTwfu1iIVPiDwTycuuBy4XWkcNnd0iLB35yftQpiL8HfpO2jQnrAwzePxszJ7mewVG+M0P/qyTBD52NkPR8uW0AZmDKp5LHTCGf7sqldDzpZvU+gsSdvtsBUcmHzjINGEoyXk=",
     "accept-encoding":"gzip"
 	}
-	req=requests.get(url=api,headers=headers, verify=False)
+	req=requests.get(url=toffee_api,headers=headers, verify=False)
 	categories=json.loads(data_decrypt(secret_key,req.text))["response"]["categories"]
 	
 	all_data=[]
@@ -81,6 +81,7 @@ def load_channel():
  
 
 secret_key=os.environ["TOFFEE_KEY"].encode()
+toffee_api=os.environ["TOFFEE_API"]
 
 date_time_info=update_time()
 date_time=date_time_info[1]+" on "+date_time_info[0]
