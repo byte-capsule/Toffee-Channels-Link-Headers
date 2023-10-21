@@ -30,7 +30,9 @@
 ## Key Features
 
 *All The Channel Links and Cookies Are Updated Every 30 Minutes
+
 *In JSON Format
+
 * You Can Easily Use This on a Website or in an App
 
 
