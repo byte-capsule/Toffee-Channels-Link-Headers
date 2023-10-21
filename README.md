@@ -1,5 +1,7 @@
 
-<h1 alig
+
+
+
 <h1 align="center">
   <br>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
@@ -24,9 +26,11 @@
   </a>
 </p>
 
+<h1 align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images%20(1).jpeg"></a>
+</h1>
 
 
-![screenshot](https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images%20(1).jpeg)
 
 ## Key Features
 
@@ -114,3 +118,15 @@ This software uses the following packages:
 MIT
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
