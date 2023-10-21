@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://images.app.goo.gl/Wasfbm2ns2ygDNSq8" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
   <br>
   Markdownify
   <br>
