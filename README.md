@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A Script to trigger the GitHub Actions every day to update the Toffee Channels Link and Cookie </h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -36,8 +36,10 @@
 
 ## Key Features
 
-* All The Channels Link and Cookies Updating Every 30 Minutes
-* You Can Easily Use This in Website or App
+*All The Channel Links and Cookies Are Updated Every 30 Minutes
+*In JSON Format
+* You Can Easily Use This on a Website or in an App
+
 
 ## How To Use
 
