@@ -2,7 +2,7 @@
 
 **Watch the video tutorial:**
 
-[![Alt text](images (1).jpeg)](https://youtu.be/PaGp7Vi5gfM)
+[![Alt text](https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images%20(1).jpeg)](https://youtu.be/PaGp7Vi5gfM)
 
 This example shows how to run a Python script as cron job with GitHub Actions. It calls an API once a week (could be any schedule you want), logs the response in `status.log`, and automatically pushes the changes to this repo.
 
