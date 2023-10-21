@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Script to trigger the GitHub Actions every day to update the Toffee Channels Link and Cookie </h4>
+<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee Channels Link and Cookie </h2>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -29,11 +29,12 @@
 
 ## Key Features
 
-*All The Channel Links and Cookies Are Updated Every 30 Minutes
-
-*In JSON Format
-
+* All The Channel Links and Cookies Are Updated Every 30 Minutes
+* No Need to Decrypt The API Data Of Toffee
+* The script Can Decrypt The Encrypted Data of Toffee API
+* In JSON Format
 * You Can Easily Use This on a Website or in an App
+
 
 
 ## How To Use
@@ -45,19 +46,36 @@
 
 ```python
 import requests
-link=' '
+#Get updated the Link and Headers 
+link="https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json"
 request=requests.get(link).json()
+
+name=request["name"]
+owner=request["owner"]
+channels_amount=request["channels_amount"]
+channels_data=request["channels"]
+for channel in channels_data:
+    link=channel["link"]
+    headers=channel["headers"]
+    
+    
+#Request Toffee Main Api With Headers
+request_server=requests.get(link,headers=headers)
+#Get the Live m3u3 Link
+print(request_server.text)
+
+
 
 ```
 
 > **Note**
-> I'm using Python Language.You can use other Languages.
+> I'm using Python 3.You can use other Languages.
 
 
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following packages:
 
 - [Pydorid 3](http://electron.atom.io/)
 - [Termux](https://nodejs.org/)
