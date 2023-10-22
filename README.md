@@ -39,11 +39,12 @@
 ## Key Features
 
 * All The Channel Links and Cookies Are Updated Every 30 Minutes
-* Premium Channels Are Also Working 
+* Premium Channels Are Also Working
+* Contains Link With Headers (Host, Cookie)
 * No Need to Decrypt The API Data Of Toffee
 * The script Can Decrypt The Encrypted Data of Toffee API
 * In JSON Format
-* You Can Easily Use This on a Website or in an App
+* You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
 
 
