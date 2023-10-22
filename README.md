@@ -32,12 +32,12 @@
  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images%20(1).jpeg"></a>
 </h1>
 
-## Introdicton 
+## 📒Introdicton 
 * [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee) Live is the number 1 entertainment app in Bangladesh, boasting over 10 million downloads on the Google Play Store.
 * Toffee uses the AES Encryption Algorithm to secure HTTPS communication with the API Server. If you're looking to scrape channel links from the Toffee API, you'll need to decrypt it using a secret key.
 * This script decrypts the Encrypted data and captures all the channel links and headers from the Toffee API, making it easy for you to use on your website or App.
 
-## Key Features
+## 💥Key Features
 
 * All The Channel Links and Cookies Are Updated Every 30 Minutes
 * Premium Channels Are Also Working
@@ -49,7 +49,7 @@
 
 
 
-## How To Use
+## 🕹️How To Use
 * 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)**
 * Use Get Request
 
@@ -85,7 +85,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 > **Note**
 > I'm using Python 3.You can use other Languages.
 
-## Optput
+## 🖥️Optput
 > ✓ channel link :https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
 ✓ channel Headers : {'Host': 'bldcmprod-cdn.toffeelive.com', 'cookie': 'Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1698080619:KeyName=prod_linear:Signature=RY1grOoqltoX1yPO4WMzHCQk2xIp1zGvi03K2bdefb-_QErIqzbuBwytBNV5HiSHSsDslAS2gJsuRFT_MnNJCQ'}
 
@@ -105,7 +105,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
  <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/json.jpg"></a>
 </h1>
 
-## Credits
+## 🚬Credits
 
 This software uses the following packages:
 
@@ -117,7 +117,7 @@ This software uses the following packages:
 
 
 
-## Support
+## 💰Support
 
 <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
@@ -130,7 +130,7 @@ MIT
 ---
 
 
-## Find Me on 
+## ✉️Find Me on 
 
 - [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/byte-capsule)
 
