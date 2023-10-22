@@ -20,10 +20,10 @@
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/Code-%E2%98%BC-Byte_Capsule.svg">
+      <img src="https://img.shields.io/badge/Byte_Capsule-%E2%98%BC-green.svg">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://img.shields.io/badge/App-Toffe_Live-pink">
+    <img src="https://img.shields.io/badge/App-Toffe_Live-purple">
   </a>
 </p>
 
