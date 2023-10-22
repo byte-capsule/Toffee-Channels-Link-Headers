@@ -107,7 +107,6 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
-
 * This software uses the following packages:
 
 - [Pydorid 3](http://electron.atom.io/)
