@@ -32,13 +32,14 @@
 </h1>
 
 ## Introdicton 
-* Toffee Live is the number 1 entertainment app in Bangladesh, boasting over 10 million downloads on the Google Play Store.
+* [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee) Live is the number 1 entertainment app in Bangladesh, boasting over 10 million downloads on the Google Play Store.
 * Toffee uses the AES Encryption Algorithm to secure HTTPS communication with the API Server. If you're looking to scrape channel links from the Toffee API, you'll need to decrypt it using a secret key.
-* This script decrypts the Encrypted data and captures all the channel links and headers from the Toffee API, making it easy for you to use on your website with ease.
+* This script decrypts the Encrypted data and captures all the channel links and headers from the Toffee API, making it easy for you to use on your website or App.
 
 ## Key Features
 
 * All The Channel Links and Cookies Are Updated Every 30 Minutes
+* Premium Channels Are Also Working 
 * No Need to Decrypt The API Data Of Toffee
 * The script Can Decrypt The Encrypted Data of Toffee API
 * In JSON Format
