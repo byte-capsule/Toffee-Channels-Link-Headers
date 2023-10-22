@@ -132,7 +132,7 @@ MIT
 
 ## Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-Byte Capsule-purple?style=for-the-badge&logo=github)](https://github.com/byte-capsule)
+- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/byte-capsule)
 
 - [![Gmail](https://img.shields.io/badge/Gmail-Jeshan Akand-green?style=for-the-badge&logo=gmail)](mailto: jeshanakand2017@gmail.com)
 
