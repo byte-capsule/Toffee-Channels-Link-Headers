@@ -49,8 +49,8 @@
 
 
 ## How To Use
-
-* You Can Get The Data Via Get Request
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)**
+* Use Get Request
 
 
 
