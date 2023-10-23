@@ -88,7 +88,7 @@ date_time=date_time_info[1]+" on "+date_time_info[0]
 data_channels=load_channel()
 data={
 "name":"Toffee App All Channel Link with Headers",
-"owner":"Byte Capsule\nTelegram: https://t.me/J_9X_H_9X_N",
+"owner":"Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N",
 "channels_amount":len(data_channels),
 "updated_on":date_time,
 "channels":data_channels
