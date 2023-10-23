@@ -11,7 +11,7 @@
   <br>
 </h1>
 
-<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee Channels Link and Cookie </h2>
+<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
 
 <p align="center">
   <a href="https://www.python.org/">
