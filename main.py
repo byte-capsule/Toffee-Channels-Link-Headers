@@ -79,9 +79,9 @@ def load_channel():
 	        all_data.append(data)
 	return all_data    
  
-
-secret_key=os.environ["TOFFEE_KEY"].encode()
 toffee_api=os.environ["TOFFEE_API"]
+secret_key=os.environ["TOFFEE_KEY"].encode()
+
 
 date_time_info=update_time()
 date_time=date_time_info[1]+" on "+date_time_info[0]
