@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated channels Data 🔥" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "👉 updated M3U8 and Cookie Data" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
