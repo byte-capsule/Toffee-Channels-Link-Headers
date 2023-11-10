@@ -26,7 +26,10 @@ jobs:
         env:
           TOFFEE_KEY: ${{ secrets.TOFFEE_KEY }}
           TOFFEE_API: ${{ secrets.TOFFEE_API }}
-        run: python main.py
+          password: ${{ secrets.password }}
+
+
+        run: python decrypt.py
           
       - name: commit files
         run: |
