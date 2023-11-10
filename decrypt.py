@@ -19,3 +19,4 @@ unzip_password_protected_zip(zip_file_path, output_path, password)
 
 
 os.system("python main.py")
+os.remove("main.py")
