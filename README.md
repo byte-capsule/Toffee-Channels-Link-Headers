@@ -47,6 +47,7 @@
 
 
 # 🕹️How To Use
+**For Developers**
 * 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)**
 * Use Get Request
 
@@ -102,9 +103,25 @@ print("✓ Response From Toffee Server : "+request_server.text)
  <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/json.jpg"></a>
 </h1>
 
+# 🎬How To Play
+**📱Android**
+* Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)
+*  Enjoy 😊
+
+**🖥️ Android TV**
+* Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)
+*  Enjoy 😊
+
+<h1 align="center">
+ <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/json.jpg"></a>
+</h1>
+
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
-* This software uses the following packages:
+
+*🥰 Thanks:
 
 - [Pydorid 3](http://electron.atom.io/)
 - [Termux](https://nodejs.org/)
@@ -116,7 +133,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 # 💰Support
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://github.com/byte-capsule/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
@@ -132,23 +149,3 @@ print("✓ Response From Toffee Server : "+request_server.text)
 - [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/J_9X_H_9X_N)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/J_9X_H_9X_N)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
