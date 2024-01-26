@@ -125,11 +125,6 @@ print("✓ Response From Toffee Server : "+request_server.text)
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
 
-*🥰 Thanks:
-
-- [Pydorid 3](http://electron.atom.io/)
-- [Termux](https://nodejs.org/)
-
 
 
 # 📝Note
@@ -143,7 +138,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 # 💰Support
 
-<a href="https://github.com/byte-capsule/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/jeshanakanc" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
