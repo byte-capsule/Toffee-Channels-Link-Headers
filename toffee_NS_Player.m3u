@@ -292,7 +292,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1711785494:KeyName=prod_linear:Signature=3jpX8uBgHWmjLD4GCJr5qJ6Cu2GbLF5-0leHhgdDzuZ6P-XgPRNpo5qi3LPwEakN5jMi_2mnAR1zBA91c9uJAA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711828644:KeyName=prod_live_events:Signature=bdbOfOhECvqHNK-HnIKo8ITUuCkyFLiuaAuRaNpMxakpvU5wfACCs8vVymfXfdZYljOWqjEe2rnn-XgQ-X-0BA",
     "drmScheme": "",
     "drmLicense": ""
   },
