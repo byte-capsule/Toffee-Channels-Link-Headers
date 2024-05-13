@@ -1,20 +1,20 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png", IPL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715674097:KeyName=prod_live_events:Signature=fFz7jGlP0AJphKgjQdUXcMfqReGKhglqIN4-qU_L7ROQTy04TDpEN2xDAlWAi28mt-EbNCAN5JTLcmdoNrriDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715695150:KeyName=prod_live_events:Signature=kOr0qGtfnY573_rODHOc-cDhurrvknWq7pNDkeEBjokPlfoJbA4K7pGytmgv7eWL5Fr9GIy3uU_Pg9pjU6vuBw"}
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/292495/logo/240x240/mobile_logo_898671001715278065.png", PAK vs IRE
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715652497:KeyName=prod_live_events:Signature=1XaOZVsx1C_X252f0HhVA0__6gNtr1feo2EIKgkF0GMbq9FGh6_SqLHP5gXGTarMXQU-e4vta4pZkDDUERcNCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715673570:KeyName=prod_live_events:Signature=aXqTKvMITVTlFOeeGCguMTux6FraeC5iLfSafi8EiHxB2VxQr3niw8S8Cs3oCZN91wrYCyIKcuTPy9obdFk6CQ"}
 https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715774508:KeyName=prod_linear:Signature=iXYGo1MI4ZNhxp5ivTIzGhXDCdBm_AQ0IaeagG_PFpaMux5h4ioxGSKI41REfYIrezTrMNRc2lQYVzsRyloVCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715796278:KeyName=prod_linear:Signature=XBEFqala9F79CI9SUk3sf-RcByYP99XNKO6LP3yXRl5JrbRvzSWIW6WT7WxleFIPZrNhUuANAFl-8lINzftODQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715774508:KeyName=prod_linear:Signature=iXYGo1MI4ZNhxp5ivTIzGhXDCdBm_AQ0IaeagG_PFpaMux5h4ioxGSKI41REfYIrezTrMNRc2lQYVzsRyloVCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715796278:KeyName=prod_linear:Signature=XBEFqala9F79CI9SUk3sf-RcByYP99XNKO6LP3yXRl5JrbRvzSWIW6WT7WxleFIPZrNhUuANAFl-8lINzftODQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715774508:KeyName=prod_linear:Signature=iXYGo1MI4ZNhxp5ivTIzGhXDCdBm_AQ0IaeagG_PFpaMux5h4ioxGSKI41REfYIrezTrMNRc2lQYVzsRyloVCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1715796278:KeyName=prod_linear:Signature=XBEFqala9F79CI9SUk3sf-RcByYP99XNKO6LP3yXRl5JrbRvzSWIW6WT7WxleFIPZrNhUuANAFl-8lINzftODQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
