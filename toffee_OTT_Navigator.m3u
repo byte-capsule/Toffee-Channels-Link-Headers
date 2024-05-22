@@ -1,20 +1,20 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png", IPL VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716365388:KeyName=prod_live_events:Signature=1GkLTsReASkyooRhCCIR6RB-PGOCTKELMk6LHTJuqEm5nHzXDMlRQWXTtzvZUFM8FgWYxVENzgYO-Eo_8kfPBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716409545:KeyName=prod_live_events:Signature=YzuGwtfy1mA-ythMX9Wi6i-bLsqQMKtAHgI_GtK9A1DyMwKcKXMoyRs8177N6Dm9BEqtEsRNZyDRsxFMNfUGAg"}
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png", ICC Men's T20 World Cup VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716343421:KeyName=prod_live_events:Signature=KTcxYEzNkTUK7HgRXsNpjwPVfo9xt4feJ5AQXA-nUCfrdLxlE-F05rdmJkWssYW1AHMpxllQdqEcfWAxhm5uDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716387861:KeyName=prod_live_events:Signature=9CyxGsscmAxZA1P0PLV7qrfKCuB606hFwwjEWm5WbPk6YZ1DMWEAvpbhh9u_ix3IdISxpsrkQkVkPNA6X-AnAg"}
 https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716466212:KeyName=prod_linear:Signature=dHG29YgnccJ5i6eJRrJKOYwbuxTE_ri9zqlDIlW3XavQu888tlw7eI7VJQAzK8Ucj-YIn4Ec0ljZVKfxkX7VBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716510690:KeyName=prod_linear:Signature=I6M4OQJFQZp5FKdoN7aXTn8dKBIhhMBKgurda3cDvm-UUwaZzoUbRo6TE_LCmqii4WZDJE0TP3Y6BKyf_kegDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716466212:KeyName=prod_linear:Signature=dHG29YgnccJ5i6eJRrJKOYwbuxTE_ri9zqlDIlW3XavQu888tlw7eI7VJQAzK8Ucj-YIn4Ec0ljZVKfxkX7VBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716510690:KeyName=prod_linear:Signature=I6M4OQJFQZp5FKdoN7aXTn8dKBIhhMBKgurda3cDvm-UUwaZzoUbRo6TE_LCmqii4WZDJE0TP3Y6BKyf_kegDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716466212:KeyName=prod_linear:Signature=dHG29YgnccJ5i6eJRrJKOYwbuxTE_ri9zqlDIlW3XavQu888tlw7eI7VJQAzK8Ucj-YIn4Ec0ljZVKfxkX7VBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1716510690:KeyName=prod_linear:Signature=I6M4OQJFQZp5FKdoN7aXTn8dKBIhhMBKgurda3cDvm-UUwaZzoUbRo6TE_LCmqii4WZDJE0TP3Y6BKyf_kegDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
