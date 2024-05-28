@@ -1,16 +1,16 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png", ICC Men's T20 World Cup VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716926934:KeyName=prod_live_events:Signature=Qu4h-hV0d6ccApbWSV5e9CUj4X09lzLNmB8uiijkT-CO6w1v0y7wN0jR-kb-bnP__8dJvUXeHUsUWpqAbmDDAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716948594:KeyName=prod_live_events:Signature=vGllR5exfq3fHqplfh39ckvwHcmlgRaBRynoSkq0BbPcVpJTemN-pmwiP-4u_Mjs2u1ryooSswtVRaF0dTK8AA"}
 https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717048934:KeyName=prod_linear:Signature=EjRSwq6twQYGI0nffeokupT8A-mmaMVyZWYnjzaPpXSmycjESJUQafbvh98gSgSRStJc3dPyplIeLOUDTxbQBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717070768:KeyName=prod_linear:Signature=uVYEIQ3FCP8A2FeE-em8bSQ4nAo69BDyJmtj8VRUtngtXBvcCBvZmBFJw-U6B2FX8biYyJ8xg8iBoBpXBe5kCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717048934:KeyName=prod_linear:Signature=EjRSwq6twQYGI0nffeokupT8A-mmaMVyZWYnjzaPpXSmycjESJUQafbvh98gSgSRStJc3dPyplIeLOUDTxbQBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717070768:KeyName=prod_linear:Signature=uVYEIQ3FCP8A2FeE-em8bSQ4nAo69BDyJmtj8VRUtngtXBvcCBvZmBFJw-U6B2FX8biYyJ8xg8iBoBpXBe5kCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717048934:KeyName=prod_linear:Signature=EjRSwq6twQYGI0nffeokupT8A-mmaMVyZWYnjzaPpXSmycjESJUQafbvh98gSgSRStJc3dPyplIeLOUDTxbQBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717070768:KeyName=prod_linear:Signature=uVYEIQ3FCP8A2FeE-em8bSQ4nAo69BDyJmtj8VRUtngtXBvcCBvZmBFJw-U6B2FX8biYyJ8xg8iBoBpXBe5kCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
