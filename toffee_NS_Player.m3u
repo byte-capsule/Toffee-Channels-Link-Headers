@@ -1,12 +1,34 @@
 [
   {
+    "name": "Channel-1 English VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717121289:KeyName=prod_live_events:Signature=xQhBGApNiNKOBLWlyttxGeffLYRw8rMAi-OQ8c5DWTFGZDNayLgM552CZUZTNYNafEaDeGPLIQGIIVPsPP6lAQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Channel-2 Bangla VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/300098/logo/240x240/mobile_logo_999371001717054738.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717120982:KeyName=prod_live_events:Signature=W1Jfpy6IP20ezzq_R_spu2gHOhfB8gKMfuZuUgkDLW7RSSCuacYtkAbRXfsazkZ0R6YBBdt8nWP98mSp7kPUBA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
     "name": "ICC Men's T20 World Cup VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-4/index.m3u8",
     "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png",
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717079449:KeyName=prod_live_events:Signature=oGwiuU0gZ1qglAjvzzLsBOBKsgtCr0uTm_wpckpvafkGOu_Yp8-vlvgrrZKuWVc_QVnhxb43GmqN_t4sAM-pBA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717120982:KeyName=prod_live_events:Signature=W1Jfpy6IP20ezzq_R_spu2gHOhfB8gKMfuZuUgkDLW7RSSCuacYtkAbRXfsazkZ0R6YBBdt8nWP98mSp7kPUBA",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -17,7 +39,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717201454:KeyName=prod_linear:Signature=ES7SmG59J7SNjFnesIup8oUML9S1PysrMu9eAXO_dq46BsWK7CfgsEPMM5KifxlcxLFmYa-By4QPBw7rjWvrCg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717243728:KeyName=prod_linear:Signature=NAjfBROMp3DmsPppBXwWoSOlZuUnQHyAPc8jiUWH4RWQQa5Xxy_eaipUsUKXQ1a4vS7qChcnouEtv32N_lOLBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -28,7 +50,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717201454:KeyName=prod_linear:Signature=ES7SmG59J7SNjFnesIup8oUML9S1PysrMu9eAXO_dq46BsWK7CfgsEPMM5KifxlcxLFmYa-By4QPBw7rjWvrCg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717243728:KeyName=prod_linear:Signature=NAjfBROMp3DmsPppBXwWoSOlZuUnQHyAPc8jiUWH4RWQQa5Xxy_eaipUsUKXQ1a4vS7qChcnouEtv32N_lOLBQ",
     "drmScheme": "",
     "drmLicense": ""
   },
@@ -39,7 +61,7 @@
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717201454:KeyName=prod_linear:Signature=ES7SmG59J7SNjFnesIup8oUML9S1PysrMu9eAXO_dq46BsWK7CfgsEPMM5KifxlcxLFmYa-By4QPBw7rjWvrCg",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717243728:KeyName=prod_linear:Signature=NAjfBROMp3DmsPppBXwWoSOlZuUnQHyAPc8jiUWH4RWQQa5Xxy_eaipUsUKXQ1a4vS7qChcnouEtv32N_lOLBQ",
     "drmScheme": "",
     "drmLicense": ""
   }
