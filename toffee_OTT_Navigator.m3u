@@ -1,20 +1,20 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png", Channel-1 English VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717466971:KeyName=prod_live_events:Signature=Esx2e-Tucdcpn4NDqRJ-vFsnMVsr5Yv6uKmZgRRN_qSC3pTQ_T-6RSr9k7lAC2oeowUCIyQlRds9z2OyXnENAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717488036:KeyName=prod_live_events:Signature=e77AYD0s95zWLYPn1K0m2OWGI6LxwAnufONNp68CLsZtlYbFAKI9QcSW7TQydWmEhV7c6uoRaEiLKqnYZMmiBg"}
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png", Channel-2 Bangla VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717466943:KeyName=prod_live_events:Signature=iwWqDSAvFxZ7Hqk5k-iRmDSxLKnTU7_ioQmSO2TamuqzFPJX9STjqfV4Ypy0IfGrw7tlzO2MA4bNgDzZrF6rAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717488011:KeyName=prod_live_events:Signature=GUApTAdh8Ye-gHy0cZy0dl3Dd2b82uD7STtIgfcLuL1KbK9EnifQ9tDnWyPQocXr3fx0nDcGh1RDwY9fXWHRDw"}
 https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717589138:KeyName=prod_linear:Signature=cT7mEvS5XNOLDrS3LEx9iGXm7YDd73Atsur8n5cysXM4_3ukhVJv73vkw2vwr7zKJsQA1tT3w0KGWMJ5X7XGDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717610933:KeyName=prod_linear:Signature=tjEV6lGKJ8GO-YZ_ZkJ2q3AFgxj8ko9Fn9cKnHRHcOBXZZAHUgU0ne1uxcGDeE6yUK3DxUOmWt04UicKJRP4AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717589138:KeyName=prod_linear:Signature=cT7mEvS5XNOLDrS3LEx9iGXm7YDd73Atsur8n5cysXM4_3ukhVJv73vkw2vwr7zKJsQA1tT3w0KGWMJ5X7XGDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717610933:KeyName=prod_linear:Signature=tjEV6lGKJ8GO-YZ_ZkJ2q3AFgxj8ko9Fn9cKnHRHcOBXZZAHUgU0ne1uxcGDeE6yUK3DxUOmWt04UicKJRP4AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717589138:KeyName=prod_linear:Signature=cT7mEvS5XNOLDrS3LEx9iGXm7YDd73Atsur8n5cysXM4_3ukhVJv73vkw2vwr7zKJsQA1tT3w0KGWMJ5X7XGDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1717610933:KeyName=prod_linear:Signature=tjEV6lGKJ8GO-YZ_ZkJ2q3AFgxj8ko9Fn9cKnHRHcOBXZZAHUgU0ne1uxcGDeE6yUK3DxUOmWt04UicKJRP4AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
