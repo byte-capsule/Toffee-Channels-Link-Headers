@@ -1,5 +1,15 @@
 [
   {
+    "name": "📢Notice",
+    "link": "https://raw.githubusercontent.com/Itznoman23/test_to/refs/heads/main/output.m3u8",
+    "logo": "https://raw.githubusercontent.com/Itznoman23/test_to/refs/heads/main/illustrationn-megaphone-monochrome-style-isolated-white-background_1284-38767.webp",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },{
     "name": "TOFFEE Sports VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",
